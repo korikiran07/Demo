@@ -55,7 +55,6 @@
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="Models\TestClass.cs" />
     <Compile Include="Activities\LoginActivity.cs" />
-    <Compile Include="Models\EmptyClass.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="Resources\AboutResources.txt" />
